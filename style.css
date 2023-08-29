@@ -2,14 +2,17 @@ body{
   max-width: 900px;
   margin: 0 0 0 0;
 }
-.small-img {
-  width: 80px;
-  height: 80px;
+img {
+  width: 280px;
+<<<<<<< HEAD
+=======
+  height:280px;
+>>>>>>> 499746a22ac8de8dfbefd3422c5c4ff71ecbda0a
+  border-radius: 60%;
 }
 p {
   width: 100%;
 }
-
 footer{
   height: 100px;
   text-align: center;
