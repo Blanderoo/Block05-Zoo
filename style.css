@@ -4,6 +4,10 @@ body{
 }
 img {
   width: 280px;
+<<<<<<< HEAD
+=======
+  height:280px;
+>>>>>>> 499746a22ac8de8dfbefd3422c5c4ff71ecbda0a
   border-radius: 60%;
 }
 p {
