@@ -1,0 +1,17 @@
+body{
+  max-width: 900px;
+  margin: 0 0 0 0;
+}
+img {
+  width: 280px;
+  height:280px;
+  border-radius: 60%;
+}
+p {
+  width: 100%;
+}
+footer{
+  height: 100px;
+  text-align: center;
+  background-color: paleturquoise;
+}
